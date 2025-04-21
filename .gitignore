@@ -2,14 +2,7 @@
 bin/
 obj/
 
-# User-specific files
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
 
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
 
 # Visual Studio cache files
 .vs/
@@ -45,7 +38,7 @@ dist/
 Thumbs.db
 
 # Dependency
-packages/
+
 
 # Dotnet tools
 *.nupkg
