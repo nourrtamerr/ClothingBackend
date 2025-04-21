@@ -1,0 +1,322 @@
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\appsettings.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.staticwebassets.endpoints.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.exe
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.deps.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.runtimeconfig.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.pdb
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.csproj.AssemblyReference.cache
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.AssemblyInfoInputs.cache
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.AssemblyInfo.cs
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.csproj.CoreCompileInputs.cache
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\scopedcss\bundle\ClothingAPIs.styles.css
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.ClothingAPIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.ClothingAPIs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.build.ClothingAPIs.props
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClothingAPIs.props
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClothingAPIs.props
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\Clothing.21CE9406.Up2Date
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\refint\ClothingAPIs.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.pdb
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.genruntimeconfig.cache
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\obj\Debug\net8.0\ref\ClothingAPIs.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\MailKit.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Owin.dll
+C:\Users\Mahmod\Desktop\AITasks\day3\ClothingAPIs\bin\Debug\net8.0\Stripe.net.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\appsettings.Development.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\appsettings.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.staticwebassets.endpoints.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.exe
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.deps.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.runtimeconfig.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ClothingAPIs.pdb
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Azure.Core.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Azure.Identity.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Humanizer.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\MailKit.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Owin.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.Owin.Security.Google.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\MimeKit.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Owin.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Stripe.net.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.ClientModel.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.CodeDom.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.csproj.AssemblyReference.cache
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.AssemblyInfoInputs.cache
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.AssemblyInfo.cs
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.csproj.CoreCompileInputs.cache
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\scopedcss\bundle\ClothingAPIs.styles.css
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets.build.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets.development.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.ClothingAPIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.ClothingAPIs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.build.ClothingAPIs.props
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClothingAPIs.props
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClothingAPIs.props
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\Clothing.21CE9406.Up2Date
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\refint\ClothingAPIs.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.pdb
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ClothingAPIs.genruntimeconfig.cache
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\ref\ClothingAPIs.dll
+E:\ITI visual\Clothing Project Final Backend\ClothingAPIs\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
