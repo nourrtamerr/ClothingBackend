@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -83,10 +87,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -230,14 +230,14 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-21T23:20:16.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ClothingAPIs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
               "RelativeDocumentMoniker": "ClothingAPIs.csproj",
@@ -255,14 +255,14 @@
               "RelativeDocumentMoniker": "global.json",
               "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\global.json",
               "RelativeToolTip": "global.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-21T23:15:40.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ForgetPasswordDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ForgetPasswordDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ForgetPasswordDTO.cs",
@@ -274,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ReviewsController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ReviewsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
@@ -286,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -298,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OrderItemsController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderItemsController.cs",
@@ -310,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -323,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ClothingAPIs.csproj",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
               "RelativeDocumentMoniker": "ClothingAPIs.csproj",
@@ -335,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ExternalLoginDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ExternalLoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ExternalLoginDTO.cs",
@@ -347,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -359,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -371,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -383,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -395,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "WishListDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\WishListDTO.cs",
               "RelativeDocumentMoniker": "NewFolder\\WishListDTO.cs",
@@ -407,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ReviewDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\ReviewDTO.cs",
               "RelativeDocumentMoniker": "NewFolder\\ReviewDTO.cs",
@@ -419,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AddToCartDto.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\AddToCartDto.cs",
               "RelativeDocumentMoniker": "NewFolder\\AddToCartDto.cs",
@@ -431,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -443,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -455,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
               "Title": "ClothingAPIs.http",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.http",
               "RelativeDocumentMoniker": "ClothingAPIs.http",
@@ -463,7 +463,8 @@
               "RelativeToolTip": "ClothingAPIs.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-02T02:35:19.072Z"
+              "WhenOpened": "2025-04-02T02:35:19.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -779,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Microsoft.CSharp.Core.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
@@ -837,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20250324002418_clothingfirst.cs",
               "DocumentMoniker": "C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs",
               "ToolTip": "C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs",
