@@ -1,200 +1,212 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\",
+  "WorkspaceRootPath": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\clothingapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\dto\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\dto\\externallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\externallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\newfolder\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\newfolder\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\newfolder\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\productadditionalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\productadditionalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\dto\\registerdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\registerdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\reposervices\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:reposervices\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\ireposervices\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:ireposervices\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\dto\\billingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\billingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\externallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\externallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250401183409_addingsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\newfolder\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\newfolder\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\newfolder\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\productadditionalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\productadditionalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\registerdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\registerdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\ireposervices\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:ireposervices\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\reposervices\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:reposervices\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250401183409_addingsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250401183409_addingsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250401184445_additionalimagesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250401184445_additionalimagesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250401184445_additionalimagesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|e:\\iti visual\\clothing project final backend\\clothingapis\\migrations\\20250401183718_addmoreimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250401183718_addmoreimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250401183718_addmoreimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\billingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\billingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -204,162 +216,190 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ForgetPasswordDTO.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\ForgetPasswordDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ForgetPasswordDTO.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\ForgetPasswordDTO.cs",
-              "RelativeToolTip": "DTO\\ForgetPasswordDTO.cs",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\.gitignore",
+              "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:25:54.193Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T23:20:16.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReviewsController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\ReviewsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\ReviewsController.cs",
-              "RelativeToolTip": "Controllers\\ReviewsController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAwwC0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:52:07.803Z",
+              "DocumentIndex": 2,
+              "Title": "ClothingAPIs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
+              "RelativeDocumentMoniker": "ClothingAPIs.csproj",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
+              "RelativeToolTip": "ClothingAPIs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T23:16:24.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:08:30.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderItemsController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\OrderItemsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrderItemsController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\OrderItemsController.cs",
-              "RelativeToolTip": "Controllers\\OrderItemsController.cs",
-              "ViewState": "AgIAAMwAAAAABQAAAEAowBAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:57:32.946Z",
+              "DocumentIndex": 1,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T23:15:40.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ForgetPasswordDTO.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ForgetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ForgetPasswordDTO.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ForgetPasswordDTO.cs",
+              "RelativeToolTip": "DTO\\ForgetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:25:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:52:07.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:08:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemsController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAMwAAAAABQAAAEAowBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:57:32.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\appsettings.json",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\appsettings.json",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-24T00:15:46.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ClothingAPIs.csproj",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\ClothingAPIs.csproj",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
               "RelativeDocumentMoniker": "ClothingAPIs.csproj",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\ClothingAPIs.csproj",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
               "RelativeToolTip": "ClothingAPIs.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-29T13:16:51.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T13:16:51.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ExternalLoginDTO.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\ExternalLoginDTO.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ExternalLoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ExternalLoginDTO.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\ExternalLoginDTO.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ExternalLoginDTO.cs",
               "RelativeToolTip": "DTO\\ExternalLoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:25:53.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:25:53.25Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Order.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Order.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:41.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:43:41.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\AppUser.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\AppUser.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\AppUser.cs",
               "RelativeToolTip": "Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:39.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:43:39.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAALYAAAAAAAAAAAAowM4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:37:42.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:40.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T00:37:42.569Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:43:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "WishListDTO.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\NewFolder\\WishListDTO.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\WishListDTO.cs",
               "RelativeDocumentMoniker": "NewFolder\\WishListDTO.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\NewFolder\\WishListDTO.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\WishListDTO.cs",
               "RelativeToolTip": "NewFolder\\WishListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,24 +407,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ReviewDTO.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\NewFolder\\ReviewDTO.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\ReviewDTO.cs",
               "RelativeDocumentMoniker": "NewFolder\\ReviewDTO.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\NewFolder\\ReviewDTO.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\ReviewDTO.cs",
               "RelativeToolTip": "NewFolder\\ReviewDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:50:25.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T22:50:25.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AddToCartDto.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\NewFolder\\AddToCartDto.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\AddToCartDto.cs",
               "RelativeDocumentMoniker": "NewFolder\\AddToCartDto.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\NewFolder\\AddToCartDto.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\AddToCartDto.cs",
               "RelativeToolTip": "NewFolder\\AddToCartDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,35 +433,33 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwAgAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:23:43.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T15:23:43.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAUAAADAMTMzMzMrwBcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:07:04.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:07:04.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "ClothingAPIs.http",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\ClothingAPIs.http",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.http",
               "RelativeDocumentMoniker": "ClothingAPIs.http",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\ClothingAPIs.http",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.http",
               "RelativeToolTip": "ClothingAPIs.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -430,89 +467,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Program.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Program.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAD0AAAAAx8zMzMwUwBcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T00:15:11.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T00:15:11.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "WishListController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\WishListController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WishListController.cs",
               "RelativeDocumentMoniker": "Controllers\\WishListController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\WishListController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WishListController.cs",
               "RelativeToolTip": "Controllers\\WishListController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:33:04.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AgIAAOoAAAAAmJmZmZkSwDYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T17:12:03.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductAdditionalImage.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\ProductAdditionalImage.cs",
-              "RelativeDocumentMoniker": "Models\\ProductAdditionalImage.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\ProductAdditionalImage.cs",
-              "RelativeToolTip": "Models\\ProductAdditionalImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T18:42:50.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\RegisterDTO.cs",
-              "RelativeToolTip": "DTO\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:38:10.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RegisterDTO2.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\RegisterDTO2.cs",
-              "RelativeDocumentMoniker": "DTO\\RegisterDTO2.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\RegisterDTO2.cs",
-              "RelativeToolTip": "DTO\\RegisterDTO2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:08:22.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T10:33:04.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAOoAAAAAmJmZmZkSwDYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:12:03.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductAdditionalImage.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ProductAdditionalImage.cs",
+              "RelativeDocumentMoniker": "Models\\ProductAdditionalImage.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ProductAdditionalImage.cs",
+              "RelativeToolTip": "Models\\ProductAdditionalImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:42:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:38:10.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDTO2.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO2.cs",
+              "RelativeDocumentMoniker": "DTO\\RegisterDTO2.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO2.cs",
+              "RelativeToolTip": "DTO\\RegisterDTO2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:08:22.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "IWishListService.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\IRepoServices\\IWishListService.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\IRepoServices\\IWishListService.cs",
               "RelativeDocumentMoniker": "IRepoServices\\IWishListService.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\IRepoServices\\IWishListService.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\IRepoServices\\IWishListService.cs",
               "RelativeToolTip": "IRepoServices\\IWishListService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,11 +551,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "WishListService.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\RepoServices\\WishListService.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\RepoServices\\WishListService.cs",
               "RelativeDocumentMoniker": "RepoServices\\WishListService.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\RepoServices\\WishListService.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\RepoServices\\WishListService.cs",
               "RelativeToolTip": "RepoServices\\WishListService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,63 +563,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "EmailSettings.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Helpers\\EmailSettings.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\EmailSettings.cs",
               "RelativeDocumentMoniker": "Helpers\\EmailSettings.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Helpers\\EmailSettings.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\EmailSettings.cs",
               "RelativeToolTip": "Helpers\\EmailSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T01:06:38.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T01:06:38.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 31,
               "Title": "20250401183409_addingsubcategory.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250401183409_addingsubcategory.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183409_addingsubcategory.cs",
               "RelativeDocumentMoniker": "Migrations\\20250401183409_addingsubcategory.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250401183409_addingsubcategory.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183409_addingsubcategory.cs",
               "RelativeToolTip": "Migrations\\20250401183409_addingsubcategory.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T18:34:09.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T18:34:09.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 32,
               "Title": "20250401184445_additionalimagesfix.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250401184445_additionalimagesfix.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401184445_additionalimagesfix.cs",
               "RelativeDocumentMoniker": "Migrations\\20250401184445_additionalimagesfix.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250401184445_additionalimagesfix.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401184445_additionalimagesfix.cs",
               "RelativeToolTip": "Migrations\\20250401184445_additionalimagesfix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T18:44:46.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T18:44:46.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 33,
               "Title": "20250401183718_addmoreimages.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250401183718_addmoreimages.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183718_addmoreimages.cs",
               "RelativeDocumentMoniker": "Migrations\\20250401183718_addmoreimages.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250401183718_addmoreimages.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183718_addmoreimages.cs",
               "RelativeToolTip": "Migrations\\20250401183718_addmoreimages.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T18:37:18.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T18:37:18.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -596,176 +623,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "WishList.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\WishList.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\WishList.cs",
               "RelativeDocumentMoniker": "Models\\WishList.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\WishList.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\WishList.cs",
               "RelativeToolTip": "Models\\WishList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:41.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:43:41.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "subcategory .cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\subcategory .cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\subcategory .cs",
               "RelativeDocumentMoniker": "Models\\subcategory .cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\subcategory .cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\subcategory .cs",
               "RelativeToolTip": "Models\\subcategory .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T18:24:17.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T18:24:17.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Category.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Category.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Category.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:41.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:43:41.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "Review.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Review.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Models\\Review.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\Review.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Review.cs",
               "RelativeToolTip": "Models\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:42.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:43:42.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "BillingDto.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\BillingDto.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\BillingDto.cs",
               "RelativeDocumentMoniker": "DTO\\BillingDto.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\DTO\\BillingDto.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\BillingDto.cs",
               "RelativeToolTip": "DTO\\BillingDto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:10:09.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T14:10:09.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "stripe.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\stripe.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\stripe.cs",
               "RelativeDocumentMoniker": "Models\\stripe.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\stripe.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\stripe.cs",
               "RelativeToolTip": "Models\\stripe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:47:42.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T14:47:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250329152410_addstripedetails.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329152410_addstripedetails.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250329152410_addstripedetails.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329152410_addstripedetails.cs",
+              "RelativeToolTip": "Migrations\\20250329152410_addstripedetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:24:11.821Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "20250329152410_addstripedetails.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329152410_addstripedetails.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250329152410_addstripedetails.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329152410_addstripedetails.cs",
-              "RelativeToolTip": "Migrations\\20250329152410_addstripedetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:24:11.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\OrderItem.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\OrderItem.cs",
               "RelativeToolTip": "Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:43:41.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T23:43:41.664Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "20250329141202_addbillingaddress.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329141202_addbillingaddress.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141202_addbillingaddress.cs",
               "RelativeDocumentMoniker": "Migrations\\20250329141202_addbillingaddress.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329141202_addbillingaddress.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141202_addbillingaddress.cs",
               "RelativeToolTip": "Migrations\\20250329141202_addbillingaddress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:12:03.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T14:12:03.037Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "20250329141516_addadditionalnotes.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329141516_addadditionalnotes.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141516_addadditionalnotes.cs",
               "RelativeDocumentMoniker": "Migrations\\20250329141516_addadditionalnotes.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329141516_addadditionalnotes.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141516_addadditionalnotes.cs",
               "RelativeToolTip": "Migrations\\20250329141516_addadditionalnotes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:15:16.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T14:15:16.323Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "20250329141558_addadditionalnotesnullable.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329141558_addadditionalnotesnullable.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141558_addadditionalnotesnullable.cs",
               "RelativeDocumentMoniker": "Migrations\\20250329141558_addadditionalnotesnullable.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250329141558_addadditionalnotesnullable.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141558_addadditionalnotesnullable.cs",
               "RelativeToolTip": "Migrations\\20250329141558_addadditionalnotesnullable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:15:58.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T14:15:58.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "MailSettings.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Helpers\\MailSettings.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\MailSettings.cs",
               "RelativeDocumentMoniker": "Helpers\\MailSettings.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Helpers\\MailSettings.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\MailSettings.cs",
               "RelativeToolTip": "Helpers\\MailSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T01:13:16.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T01:13:16.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "20250327005208_computedtotalamount.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250327005208_computedtotalamount.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250327005208_computedtotalamount.cs",
               "RelativeDocumentMoniker": "Migrations\\20250327005208_computedtotalamount.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250327005208_computedtotalamount.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250327005208_computedtotalamount.cs",
               "RelativeToolTip": "Migrations\\20250327005208_computedtotalamount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:52:17.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T00:52:17.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 4,
               "Title": "Microsoft.CSharp.Core.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
@@ -775,59 +789,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "20250324230556_addingsize.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324230556_addingsize.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324230556_addingsize.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324230556_addingsize.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324230556_addingsize.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324230556_addingsize.cs",
               "RelativeToolTip": "Migrations\\20250324230556_addingsize.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T23:05:57.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T23:05:57.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 49,
               "Title": "20250324194515_fix.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324194515_fix.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324194515_fix.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324194515_fix.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324194515_fix.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324194515_fix.cs",
               "RelativeToolTip": "Migrations\\20250324194515_fix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:45:15.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T19:45:15.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 50,
               "Title": "20250324170830_second.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324170830_second.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324170830_second.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324170830_second.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324170830_second.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324170830_second.cs",
               "RelativeToolTip": "Migrations\\20250324170830_second.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T17:08:30.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T17:08:30.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 51,
               "Title": "20250324002643_firstclothing.cs",
-              "DocumentMoniker": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324002643_firstclothing.cs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324002643_firstclothing.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324002643_firstclothing.cs",
-              "ToolTip": "E:\\ITI visual\\Clothing Project Final Backend\\ClothingAPIs\\Migrations\\20250324002643_firstclothing.cs",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324002643_firstclothing.cs",
               "RelativeToolTip": "Migrations\\20250324002643_firstclothing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T00:26:44.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T00:26:44.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 5,
               "Title": "20250324002418_clothingfirst.cs",
               "DocumentMoniker": "C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs",
               "ToolTip": "C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs",

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingAPIs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -21,180 +25,188 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ForgetPasswordDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\ForgetPasswordDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ReviewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ReviewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OrderItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ExternalLoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\ExternalLoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\externallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\externallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\WishListDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\WishListDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\ReviewDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\ReviewDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\newfolder\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\AddToCartDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\AddToCartDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\newfolder\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\newfolder\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:newfolder\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClothingAPIs.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WishListController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\WishListController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:clothingapis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ProductAdditionalImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ProductAdditionalImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\RegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\RegisterDTO2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\productadditionalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\productadditionalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\IRepoServices\\IWishListService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IRepoServices\\IWishListService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\RepoServices\\WishListService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepoServices\\WishListService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\registerdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\registerdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\EmailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\EmailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\ireposervices\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:ireposervices\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183409_addingsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250401183409_addingsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\reposervices\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:reposervices\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401184445_additionalimagesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250401184445_additionalimagesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183718_addmoreimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250401183718_addmoreimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250401183409_addingsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250401183409_addingsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250401184445_additionalimagesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250401184445_additionalimagesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\WishList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\WishList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250401183718_addmoreimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250401183718_addmoreimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\subcategory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\BillingDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\BillingDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\dto\\billingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:dto\\billingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329152410_addstripedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141202_addbillingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\MailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\MailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141516_addadditionalnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250329141558_addadditionalnotesnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250327005208_computedtotalamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324230556_addingsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324194515_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324170830_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|d:\\downloads-d\\clothingapissssssssssss\\clothingapis\\migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B3A1B4-D83D-43A0-A0B4-D1B7235EB09A}|ClothingAPIs.csproj|solutionrelative:migrations\\20250324002643_firstclothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -204,7 +216,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -212,7 +224,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T23:20:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClothingAPIs",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
+              "RelativeDocumentMoniker": "ClothingAPIs.csproj",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
+              "RelativeToolTip": "ClothingAPIs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T23:16:24.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T23:15:40.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ForgetPasswordDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ForgetPasswordDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ForgetPasswordDTO.cs",
@@ -224,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReviewsController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ReviewsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
@@ -236,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -248,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "OrderItemsController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderItemsController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderItemsController.cs",
@@ -260,20 +310,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-24T00:15:46.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ClothingAPIs.csproj",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.csproj",
               "RelativeDocumentMoniker": "ClothingAPIs.csproj",
@@ -281,12 +331,11 @@
               "RelativeToolTip": "ClothingAPIs.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-29T13:16:51.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T13:16:51.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ExternalLoginDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\ExternalLoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ExternalLoginDTO.cs",
@@ -298,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -310,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -322,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -334,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -346,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "WishListDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\WishListDTO.cs",
               "RelativeDocumentMoniker": "NewFolder\\WishListDTO.cs",
@@ -358,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ReviewDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\ReviewDTO.cs",
               "RelativeDocumentMoniker": "NewFolder\\ReviewDTO.cs",
@@ -370,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "AddToCartDto.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\NewFolder\\AddToCartDto.cs",
               "RelativeDocumentMoniker": "NewFolder\\AddToCartDto.cs",
@@ -382,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -394,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -406,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "ClothingAPIs.http",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\ClothingAPIs.http",
               "RelativeDocumentMoniker": "ClothingAPIs.http",
@@ -418,20 +467,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T00:15:11.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T00:15:11.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "WishListController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\WishListController.cs",
               "RelativeDocumentMoniker": "Controllers\\WishListController.cs",
@@ -443,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -455,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ProductAdditionalImage.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ProductAdditionalImage.cs",
               "RelativeDocumentMoniker": "Models\\ProductAdditionalImage.cs",
@@ -467,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
@@ -479,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "RegisterDTO2.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\RegisterDTO2.cs",
               "RelativeDocumentMoniker": "DTO\\RegisterDTO2.cs",
@@ -491,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "IWishListService.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\IRepoServices\\IWishListService.cs",
               "RelativeDocumentMoniker": "IRepoServices\\IWishListService.cs",
@@ -503,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "WishListService.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\RepoServices\\WishListService.cs",
               "RelativeDocumentMoniker": "RepoServices\\WishListService.cs",
@@ -515,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\EmailSettings.cs",
               "RelativeDocumentMoniker": "Helpers\\EmailSettings.cs",
@@ -527,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "20250401183409_addingsubcategory.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183409_addingsubcategory.cs",
               "RelativeDocumentMoniker": "Migrations\\20250401183409_addingsubcategory.cs",
@@ -539,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "20250401184445_additionalimagesfix.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401184445_additionalimagesfix.cs",
               "RelativeDocumentMoniker": "Migrations\\20250401184445_additionalimagesfix.cs",
@@ -551,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "20250401183718_addmoreimages.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250401183718_addmoreimages.cs",
               "RelativeDocumentMoniker": "Migrations\\20250401183718_addmoreimages.cs",
@@ -563,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
@@ -575,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "WishList.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\WishList.cs",
               "RelativeDocumentMoniker": "Models\\WishList.cs",
@@ -587,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "subcategory .cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\subcategory .cs",
               "RelativeDocumentMoniker": "Models\\subcategory .cs",
@@ -599,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -611,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Review.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Models\\Review.cs",
@@ -623,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "BillingDto.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\DTO\\BillingDto.cs",
               "RelativeDocumentMoniker": "DTO\\BillingDto.cs",
@@ -635,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "stripe.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\stripe.cs",
               "RelativeDocumentMoniker": "Models\\stripe.cs",
@@ -647,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "20250329152410_addstripedetails.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329152410_addstripedetails.cs",
               "RelativeDocumentMoniker": "Migrations\\20250329152410_addstripedetails.cs",
@@ -659,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
@@ -671,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "20250329141202_addbillingaddress.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141202_addbillingaddress.cs",
               "RelativeDocumentMoniker": "Migrations\\20250329141202_addbillingaddress.cs",
@@ -683,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "20250329141516_addadditionalnotes.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141516_addadditionalnotes.cs",
               "RelativeDocumentMoniker": "Migrations\\20250329141516_addadditionalnotes.cs",
@@ -695,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "20250329141558_addadditionalnotesnullable.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250329141558_addadditionalnotesnullable.cs",
               "RelativeDocumentMoniker": "Migrations\\20250329141558_addadditionalnotesnullable.cs",
@@ -707,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "MailSettings.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Helpers\\MailSettings.cs",
               "RelativeDocumentMoniker": "Helpers\\MailSettings.cs",
@@ -719,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "20250327005208_computedtotalamount.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250327005208_computedtotalamount.cs",
               "RelativeDocumentMoniker": "Migrations\\20250327005208_computedtotalamount.cs",
@@ -731,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Microsoft.CSharp.Core.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
@@ -741,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "20250324230556_addingsize.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324230556_addingsize.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324230556_addingsize.cs",
@@ -753,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "20250324194515_fix.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324194515_fix.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324194515_fix.cs",
@@ -765,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "20250324170830_second.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324170830_second.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324170830_second.cs",
@@ -777,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "20250324002643_firstclothing.cs",
               "DocumentMoniker": "D:\\Downloads-D\\ClothingAPIssssssssssss\\ClothingAPIs\\Migrations\\20250324002643_firstclothing.cs",
               "RelativeDocumentMoniker": "Migrations\\20250324002643_firstclothing.cs",
@@ -789,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20250324002418_clothingfirst.cs",
               "DocumentMoniker": "C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs",
               "ToolTip": "C:\\Users\\Mahmod\\Desktop\\AITasks\\day3\\ClothingAPIs\\Migrations\\20250324002418_clothingfirst.cs",

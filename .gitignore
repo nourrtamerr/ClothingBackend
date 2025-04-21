@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio cache files
+.vs/
+.vscode/
+
+# Rider IDE
+.idea/
+
+# ASP.NET Secrets
+secrets.json
+
+# Environment config
+appsettings.json
+appsettings.*.json
+
+# Publish output
+wwwroot/
+publish/
+out/
+
+# Logs
+*.log
+logs/
+
+# NPM / Node (for projects that also use Angular or frontend)
+node_modules/
+dist/
+.env
+.env.*.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Dependency
+packages/
+
+# Dotnet tools
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+global.json
